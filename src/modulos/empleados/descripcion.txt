@@ -1,1 +1,4 @@
-Validando los cambios
+Propósito
+Este ERP tiene como propósito permitir las acciones de control de empleados dentro de una empresa
+
+Aquí se utilizan diversos módulos para crearlo.
